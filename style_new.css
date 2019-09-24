@@ -1,0 +1,103 @@
+p{
+  border:1px solid #ded4c2;
+  padding:10px;
+}  
+
+h2{
+	/*  background:#a55f5f;  */
+ /*  border:1px solid #ded4c2;
+  padding:10px;
+  text-align: center; */
+  color : "black";
+	font-size: 38px;
+	font-weight: 400;
+	text-align: center;
+} 
+
+s5{
+	color : #a23535;
+	font-size: 18px;
+	font-weight: 200;
+	text-align: center;
+}
+
+s3{
+	color : #a23535;
+	font-size: 18px;
+	font-style: italic;
+	line-height: 16px;	
+}
+
+s4{
+	color : #484343;
+	font-size: 18px;
+	font-weight: 400;
+	font-style: italic;
+	text-align: left;
+	line-height: 24px;	
+}
+
+ss{
+	color : #a23535;
+	font-family: Times New Roman;
+	font-size: 25px;
+	text-align: left;
+}
+ss {
+    color: #a23535; /* Цвет ссылок */
+   }
+ss :visited {
+    color: #a23535; /* Цвет посещенных ссылок */
+   }
+ss :active {
+    color: #ffff00; /* Цвет активных ссылок */
+   }
+
+#header{
+  background:#a55f5f;
+ /*  width:715px;
+  height:100px; */
+  width: autosize;
+  height:100px;
+ float: center;
+
+}
+#menu{
+  background:#e2e0db;
+  width:190px;
+  /*  height:120%;  */
+    height:165vh;
+}
+#content{
+  background:oldlace;
+  width:86%;
+ height:165vh;
+  position:absolute;
+  left:190px;
+  top:120.5px;
+  
+
+}
+#news{
+  background:yellow;
+  width:10%;
+  height:500px;
+  position:absolute;
+  left:90%;
+  top:10px;
+}   
+#footer{
+  background:darkred;
+ /*  width:715px; */
+  width: autosize;
+  height:30px;
+}    
+body{
+  padding: 0px;
+margin: 0px;
+}
+
+#names{
+	width: autosize;
+	height:autosize;	
+}
