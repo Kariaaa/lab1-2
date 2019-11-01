@@ -4,11 +4,7 @@ p{
 }  
 
 h2{
-	/*  background:#a55f5f;  */
- /*  border:1px solid #ded4c2;
-  padding:10px;
-  text-align: center; */
-  color : "black";
+	 color : "black";
 	font-size: 38px;
 	font-weight: 400;
 	text-align: center;
@@ -55,8 +51,6 @@ ss :active {
 
 #header{
   background:#a55f5f;
- /*  width:715px;
-  height:100px; */
   width: autosize;
   height:100px;
  float: center;
@@ -65,8 +59,7 @@ ss :active {
 #menu{
   background:#e2e0db;
   width:190px;
-  /*  height:120%;  */
-    height:165vh;
+  height:165vh;
 }
 #content{
   background:oldlace;
@@ -88,7 +81,6 @@ ss :active {
 }   
 #footer{
   background:darkred;
- /*  width:715px; */
   width: autosize;
   height:30px;
 }    
